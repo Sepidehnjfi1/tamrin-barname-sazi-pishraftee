@@ -1,0 +1,10 @@
+C:\Users\Parham\Downloads\FibonacciRecursive\FibonacciRecursive\bin\Debug\FibonacciRecursive.exe.config
+C:\Users\Parham\Downloads\FibonacciRecursive\FibonacciRecursive\bin\Debug\FibonacciRecursive.exe
+C:\Users\Parham\Downloads\FibonacciRecursive\FibonacciRecursive\bin\Debug\FibonacciRecursive.pdb
+C:\Users\Parham\Downloads\FibonacciRecursive\FibonacciRecursive\obj\Debug\FibonacciRecursive.csproj.AssemblyReference.cache
+C:\Users\Parham\Downloads\FibonacciRecursive\FibonacciRecursive\obj\Debug\FibonacciRecursive.Form1.resources
+C:\Users\Parham\Downloads\FibonacciRecursive\FibonacciRecursive\obj\Debug\FibonacciRecursive.Properties.Resources.resources
+C:\Users\Parham\Downloads\FibonacciRecursive\FibonacciRecursive\obj\Debug\FibonacciRecursive.csproj.GenerateResource.cache
+C:\Users\Parham\Downloads\FibonacciRecursive\FibonacciRecursive\obj\Debug\FibonacciRecursive.csproj.CoreCompileInputs.cache
+C:\Users\Parham\Downloads\FibonacciRecursive\FibonacciRecursive\obj\Debug\FibonacciRecursive.exe
+C:\Users\Parham\Downloads\FibonacciRecursive\FibonacciRecursive\obj\Debug\FibonacciRecursive.pdb
